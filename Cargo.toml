@@ -11,8 +11,8 @@ license = "MIT"
 crate-type = ["cdylib"]
 
 [dependencies]
-wasm-bindgen = "0.2.78"
-pulldown-cmark = "0.8.0"
+wasm-bindgen = "0.2.87"
+pulldown-cmark = "0.9.3"
 js-sys = "0.3.55"
 
 [profile.release]
